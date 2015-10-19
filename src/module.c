@@ -1,3 +1,9 @@
+/*
+ * module.c
+ *
+ *  Created on: Oct 16, 2012
+ *      Authors: Nicolo Rivetti, Eleonora Calore
+ */
 
 #define __SMP__ //TODO
 

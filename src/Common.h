@@ -2,7 +2,7 @@
  * Common.h
  *
  *  Created on: Oct 17, 2012
- *      Author: helrohir
+ *       Authors: Nicolo Rivetti, Eleonora Calore
  */
 
 #ifndef COMMON_H_

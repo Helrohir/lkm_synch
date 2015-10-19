@@ -2,7 +2,7 @@
  * tagDataStructure.h
  *
  *  Created on: Oct 17, 2012
- *      Author: helrohir
+ *      Authors: Nicolo Rivetti, Eleonora Calore
  */
 
 #ifndef TAGDATASTRUCTURE_H_

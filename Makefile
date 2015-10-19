@@ -1,10 +1,17 @@
+#
+#  makefile
+#
+#  Created on: Oct 16, 2012
+#      Authors: Nicolo Rivetti, Eleonora Calore
+#
+
 srcDir:=../src
 
 obj-m += module.o
 
 module-objs += $(srcDir)/module.o $(srcDir)/barrierSyscall.o $(srcDir)/barrierDataStructure.o $(srcDir)/tagDataStructure.o $(srcDir)/processDataStructure.o
 
-syscallSrc:=  $(srcDir)/syscallUsr2.c
+syscallSrc:=  $(srcDir)/syscallUsr.c
 
 all: module syscall
 

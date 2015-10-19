@@ -2,7 +2,7 @@
  * wakeupProcess.h
  *
  *  Created on: Oct 22, 2012
- *      Author: helrohir
+ *      Authors: Nicolo Rivetti, Eleonora Calore
  */
 
 #ifndef WAKEUPPROCESS_H_

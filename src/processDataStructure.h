@@ -2,7 +2,7 @@
  * processDataStructure.h
  *
  *  Created on: Oct 19, 2012
- *      Author: helrohir
+ *      Authors: Nicolo Rivetti, Eleonora Calore
  */
 
 #ifndef PROCESSDATASTRUCTURE_H_

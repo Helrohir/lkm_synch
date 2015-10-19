@@ -1,8 +1,8 @@
 /*
- * keyDataStructure.h
+ * barrrieDataStructure.h
  *
  *  Created on: Oct 17, 2012
- *      Author: helrohir
+ *      Authors: Nicolo Rivetti, Eleonora Calore
  */
 
 #ifndef BARRIERDATASTRUCTURE_H_

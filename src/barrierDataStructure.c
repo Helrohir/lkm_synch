@@ -1,8 +1,8 @@
 /*
- * keyDataStructure.c
+ * barrierDataStructure.c
  *
  *  Created on: Oct 17, 2012
- *      Author: helrohir
+ *      Authors: Nicolo Rivetti, Eleonora Calore
  */
 
 #include "Common.h"

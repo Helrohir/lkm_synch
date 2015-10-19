@@ -1,8 +1,8 @@
 /*
- * mysyscallUsr1.c
+ * mysyscallUsr.c
  *
  *  Created on: Oct 16, 2012
- *      Author: helrohir
+ *      Authors: Nicolo Rivetti, Eleonora Calore
  */
 #include <stdio.h>
 #include <stdlib.h>

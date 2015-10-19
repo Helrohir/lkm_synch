@@ -1,8 +1,8 @@
 /*
- * syscall2.h
+ * barrierSyscall.h
  *
  *  Created on: Oct 16, 2012
- *      Author: helrohir
+ *       Authors: Nicolo Rivetti, Eleonora Calore
  */
 
 #ifndef SYSCALL2_H_

@@ -2,7 +2,7 @@
  * tagDataStructure.c
  *
  *  Created on: Oct 17, 2012
- *      Author: helrohir
+ *      Authors: Nicolo Rivetti, Eleonora Calore
  */
 
 #include "Common.h"
@@ -11,8 +11,8 @@
 
 struct tag_struct {
 	int tag;
-	void* processHead; //Testa della lista di processi.
-	list tagList; //Gestore lista
+	void* processHead; //Processes list head
+	list tagList; //List handler
 };
 typedef struct tag_struct tagNode;
 

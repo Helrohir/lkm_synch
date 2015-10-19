@@ -2,7 +2,7 @@
  * lock.h
  *
  *  Created on: Oct 20, 2012
- *      Author: helrohir
+ *       Authors: Nicolo Rivetti, Eleonora Calore
  */
 
 #ifndef LOCK_H_
